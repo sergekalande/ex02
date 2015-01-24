@@ -1,11 +1,7 @@
 // Copyright (c) 2015, <your name>. All rights reserved. Use of this source code
 // is governed by a BSD-style license that can be found in the LICENSE file.
-
-import 'package:ex02/ex02.dart' as ex02;
-   
-main() {
+  
    var q = '#Question 1';
-
    num x = 5;
    num y = 7;
    num z = 8;
@@ -41,7 +37,8 @@ main() {
    var op= '=';
    var lo= 'km/h';
    
-       
+main() {
+     
 print('$q');
 print('    $a');
 print(' $s  $b $p');
